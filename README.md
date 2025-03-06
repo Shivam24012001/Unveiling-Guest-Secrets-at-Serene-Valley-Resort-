@@ -24,9 +24,11 @@ This project focuses on analyzing guest data to create distinct guest segments b
 
 * **Tableau:** For data visualization and dashboard creation.
 
-## Project Goals
+#### Project Goals
 
 * To provide a clear understanding of guest demographics and spending habits.
 * To enable targeted marketing and personalized guest experiences.
 * To improve guest loyalty and satisfaction.
 * To enable data driven decision making.
+
+  ## Dashboard- https://public.tableau.com/views/ValleyResortmanagement_/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
